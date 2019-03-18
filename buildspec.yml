@@ -3,7 +3,6 @@ phases:
   build:
     commands:
       - date
-      - pwd
 artifacts: 
   files: 
     - '**/*'
